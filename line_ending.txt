@@ -1,2 +1,2 @@
 This is a test file to inspect the differences between the line endings of the file from Linux and Windows.
-I.E. the difference between CRLF and LF.
+It can also be called a difference between CRLF vs LF.
